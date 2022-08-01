@@ -1,5 +1,5 @@
 # Waterfall
-[Watefall](https://myhailo11.github.io/Waterfall/)
+[Watefall](https://myhailo11.github.io/waterfall/)
 
 ## Relax waterfall video
 
